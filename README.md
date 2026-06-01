@@ -1,4 +1,4 @@
-<h1 align="center">Prashant Chandra 👋</h1>
+<h1 align="center">Prashant Chandra </h1>
 
 <p align="center">
   <em>M.Sc. Computer Science · Paderborn University · Germany</em>
