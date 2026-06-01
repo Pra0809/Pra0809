@@ -44,7 +44,7 @@ LLM & RAG       Sentence-Transformers · multilingual-e5 · ChromaDB · BM25 ·
                 prompt engineering · RAG architectures
 ML Engineering  FastAPI · Streamlit · REST APIs · HuggingFace Spaces
 Databases       MySQL · PostgreSQL · ChromaDB
-Tools           Git · GitLab · Jupyter · Google Colab · VS Code · Linux
+Tools           Git · GitLab · Jupyter · Google Colab · VS Code 
 ```
 
 ---
