@@ -30,9 +30,7 @@ Currently looking for **Werkstudent / working student roles** in Data Science, M
 
 - 🌱 **[Harvest Helper — Weather-Based Crop Recommendation API](https://github.com/Pra0809/harvest-helper-weather-api)** — FastAPI microservice within a dual-API agricultural advisory platform for North Rhine-Westphalia. Gradient Boosting Classifier on an 11-feature synthetic agronomic dataset (5,500 samples, 22 crops); **89.73% top-1 accuracy, 1.36 ms inference latency**. Fuses real-time OpenWeatherMap data with DWD 1991–2020 climate normals. Co-authored IEEE-format paper. *Module owner within a team of 4.*
 
-- 🕸️ **Knowledge Graph Project** *(upcoming)* — Applying concepts from the *Foundations of Knowledge Graphs* module to a hands-on project.
-
----
+- 🕸️ - **[XAI Knowledge Graph](https://github.com/Pra0809/xai-knowledge-graph)** — Research-paper knowledge graph (Neo4j + RDF/SPARQL/OWL + PyKEEN) with a GraphRAG pipeline benchmarked against vanilla RAG. RotatE precision@10 = 0.90; GraphRAG leads completeness 4.4 vs 2.5.
 
 ### Tech I work with
 
