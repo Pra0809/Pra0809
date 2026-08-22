@@ -57,7 +57,7 @@ Tools           Git · GitLab · Jupyter · Google Colab · VS Code
 
 ### Education
 
-- **M.Sc. Computer Science**, Paderborn University · 2025 – present · Current GPA 2.2 (German scale)
+- **M.Sc. Computer Science**, Paderborn University · 2025 – present 
 - **B.Tech. Information Technology**, GTBIT, GGSIPU · 2020 – 2024 · 9.28 / 10.0 CGPA
 
 ---
